@@ -19,7 +19,7 @@ from django.urls import path
 from django.http import HttpResponse
 
 def my_view(request):
-    return HttpResponse ('UMA LINDA STRING')
+    return HttpResponse ('kakazinho')
 
 
 
